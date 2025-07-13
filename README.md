@@ -11,7 +11,7 @@ This respository contains my daily Data Structures and Algorithms practice probl
 - Trees (Coming soon)
 
  💻 Language Used:
-- C / Python
+- C & Python
  🎯 Goal:
 To master DSA and crack top product-based companies with a 31 LPA+ dream package.
 
