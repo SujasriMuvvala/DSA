@@ -6,6 +6,7 @@ This respository contains my daily Data Structures and Algorithms practice probl
 - Recursion
 - Sorting
 - Searching
+- Visualization 
 - Hashmaps
 - Linked Lists
 - Trees (Coming soon)
